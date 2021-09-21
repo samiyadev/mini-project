@@ -1,1 +1,2 @@
-# mini-project-c++
+# mini-project
+
